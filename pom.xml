@@ -70,7 +70,7 @@
         <name>DESKTOP-7REH9NF-releases</name>
         <url>http://localhost:8082/artifactory/demo1</url>
     </repository>
-    <snapshotRepository>
+ <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-7REH9NF-snapshots</name>
         <url>http://localhost:8082/artifactory/demo2</url>
